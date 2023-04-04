@@ -1,0 +1,1 @@
+export const mongodbCnxStr = 'mongodb://localhost/coderhouse'
